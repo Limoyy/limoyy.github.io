@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>小梨同学的个人博客</title>
+        <link>http://limoyy.github.io</link>
+        <description>欢迎来到快乐小屋~</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 12 Jun 2023 19:07:14 +0800</pubDate>
+        <lastBuildDate>Mon, 12 Jun 2023 19:07:14 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://limoyy.github.io/2023/06/12/%E7%AE%80%E6%B4%81%E7%89%88%E6%95%99%E7%A8%8B/</guid>
+            <title>简洁版教程</title>
+            <link>http://limoyy.github.io/2023/06/12/%E7%AE%80%E6%B4%81%E7%89%88%E6%95%99%E7%A8%8B/</link>
+            <pubDate>Mon, 12 Jun 2023 19:07:14 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;[2023.6.10 更新]&lt;/strong&gt;&lt;br /&gt;
+:::tips&lt;br /&gt;
+&lt;strong&gt; 目前 freembook 已经恢复访问，各位可以直接在 freembook 中搜索。注意要选择秒传码长度为 “长” 的资源，否则会出现 404&lt;/strong&gt;&lt;br /&gt;
+:::&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;本教程主要针对读秀库&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;tips：由于国内监管越来越严，树大招风，因此教程仅供圈内使用，请勿宣扬喔～&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;目录&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;方案一my-book-house网站百度网盘脚本百度网盘秒传链接提取最新可维护版本&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方案一my-book-house网站百度网盘脚本百度网盘秒传链接提取最新可维护版本&#34;&gt;#&lt;/a&gt; &lt;strong&gt;方案一：&lt;/strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5maW5kYm9va3MuaW5mby8=&#34;&gt;My Book House&lt;/span&gt;&lt;strong&gt; 网站 + 百度网盘脚本&lt;/strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzLzQyNzYyOC0lRTclOTklQkUlRTUlQkElQTYlRTclQkQlOTElRTclOUIlOTglRTclQTclOTIlRTQlQkMlQTAlRTklOTMlQkUlRTYlOEUlQTUlRTYlOEYlOTAlRTUlOEYlOTYtJUU2JTlDJTgwJUU2JTk2JUIwJUU1JThGJUFGJUU3JUJCJUI0JUU2JThBJUE0JUU3JTg5JTg4JUU2JTlDJUFD&#34;&gt;百度网盘秒传链接提取 (最新可维护版本)&lt;/span&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;已经安装过油猴插件以及&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzLzQyNzYyOC0lRTclOTklQkUlRTUlQkElQTYlRTclQkQlOTElRTclOUIlOTglRTclQTclOTIlRTQlQkMlQTAlRTklOTMlQkUlRTYlOEUlQTUlRTYlOEYlOTAlRTUlOEYlOTYtJUU2JTlDJTgwJUU2JTk2JUIwJUU1JThGJUFGJUU3JUJCJUI0JUU2JThBJUE0JUU3JTg5JTg4JUU2JTlDJUFD&#34;&gt;百度网盘秒传链接提取 (最新可维护版本)&lt;/span&gt; 这个脚本的话，直接访问&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5maW5kYm9va3MuaW5mby8=&#34;&gt; http://www.findbooks.info/&lt;/span&gt;，搜索到书后，复制一长串的 md5 码，打开网页版百度网盘，点击 “秒传”，把复制的码粘贴进去即可，路径根据自己需求填。&lt;/li&gt;
+&lt;li&gt;对于没有安装过油猴脚本的同学，在浏览器拓展中搜索 “tampermonkey”，安装拓展之后，点击上面的链接安装脚本。之后就是 1 的步骤。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;方案二使用易书新接口zhelper-search-page-搜索界面-获取直链-更新于202368&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方案二使用易书新接口zhelper-search-page-搜索界面-获取直链-更新于202368&#34;&gt;#&lt;/a&gt; &lt;strong&gt;方案二：使用易书新接口&lt;/strong&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWFyY2guemhlbHBlci5uZXQvPyU1QiU3QiUyMm5hbWUlMjI6JTIyeWxpYi1zbGliMiUyMiwlMjJ1cmwlMjI6JTIyaHR0cHM6Ly9zbGliMi55bGlicmFyeS5vcmcvJTIyLCUyMnNlbnNpdGl2ZSUyMjpmYWxzZSwlMjJkZXRhaWwlMjI6ZmFsc2UsJTIyZGlzcGxheSUyMjolN0IlMjJoJTIyOiU1QiUyMmluZm8lMjIlNUQsJTIyZGV0YWlsJTIyOiU1QiUyMmNvZGUlMjIlNUQlN0QlN0QlNUQ=&#34;&gt; zhelper Search Page 搜索界面 🔍&lt;/span&gt;&lt;strong&gt;获取直链 【更新于 2023.6.8】&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;这个方法比第一个更快一些&lt;/p&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;在&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWFyY2guemhlbHBlci5uZXQvPyU1QiU3QiUyMm5hbWUlMjI6JTIyeWxpYi1zbGliMiUyMiwlMjJ1cmwlMjI6JTIyaHR0cHM6Ly9zbGliMi55bGlicmFyeS5vcmcvJTIyLCUyMnNlbnNpdGl2ZSUyMjpmYWxzZSwlMjJkZXRhaWwlMjI6ZmFsc2UsJTIyZGlzcGxheSUyMjolN0IlMjJoJTIyOiU1QiUyMmluZm8lMjIlNUQsJTIyZGV0YWlsJTIyOiU1QiUyMmNvZGUlMjIlNUQlN0QlN0QlNUQ=&#34;&gt; zhelper Search Page 搜索界面 🔍&lt;/span&gt;中搜索到想要的书后，直接点击 “直链”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566136115-5bf1037f-c20e-495d-9dd0-d3e0945a1974.png#averageHue=%23f2f2f2&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;id=u8ba60da5&amp;amp;originHeight=646&amp;amp;originWidth=1659&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u5f7a4c72-2528-43ac-9e3f-d28d9c06884&amp;amp;title=&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;之后会弹出一长串字符，这时候查看百度网盘，会发现已经存到网盘里了（一般在根目录）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566136134-f1929ded-d32d-402d-be71-a19f7a560ad9.png#averageHue=%23ebebeb&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;id=ua9c31409&amp;amp;originHeight=92&amp;amp;originWidth=2510&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u5f75658e-ac9c-464c-b8d6-9a4c67c78d0&amp;amp;title=&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;tips：如果出现 “关键词” 无效的字样，建议直接输入 ISBN 码&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;下载的zip文件如何变成pdf工具zip2pdf&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载的zip文件如何变成pdf工具zip2pdf&#34;&gt;#&lt;/a&gt; 下载的 zip 文件如何变成 pdf—— 工具&lt;strong&gt; zip2pdf&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;用下面这个👇工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;暂时无法在飞书文档外展示此内容&lt;br /&gt;
+下载不了的也可以点这个下载：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMUNQNmg3dDRSNmNBUm9TNWE2V3Qxbmc/cHdkPXpqNDQ=&#34;&gt;https://pan.baidu.com/s/1CP6h7t4R6cARoS5a6Wt1ng?pwd=zj44&lt;/span&gt;&lt;br /&gt;
+ 解压到文件后（注意不要在压缩包里直接打开），找到.exe 文件，双击。&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566136205-27acab4a-b8e6-40a8-9a2e-4f4427bd1719.png#averageHue=%2325201f&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;id=ud6c38ee8&amp;amp;originHeight=274&amp;amp;originWidth=601&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u1a7eb427-fb29-4e55-a691-22134866c7b&amp;amp;title=&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+之后会出现命令行窗口：&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566136127-30933704-1937-4dd5-9a46-4ec6dca1e4f9.png#averageHue=%23141414&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;id=u8f5cd800&amp;amp;originHeight=411&amp;amp;originWidth=2149&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=uc155c433-85d7-41da-812b-22ea853bb00&amp;amp;title=&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+然后复制 zip 文件的路径：选中文件，右键 --&amp;gt; 复制文件地址&lt;br /&gt;
+粘贴到命令行，回车 Enter&lt;br /&gt;
+ 页面会进行多步跳转，这时候无需任何操作，直到显示” 提取成功 “字样。一般生成的 pdf 文件会出现在桌面。&lt;/p&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;tips：可以对.exe 文件生成快捷方式，或者固定到任务栏，方便下次打开👇&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566136180-d95f10bc-e968-4bf9-9127-93694db440e7.png#averageHue=%2328313c&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;id=uef7aedf3&amp;amp;originHeight=112&amp;amp;originWidth=752&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u22dd3e5c-6513-4d49-8e10-61b8867893f&amp;amp;title=&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;衍生系列&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#衍生系列&#34;&gt;#&lt;/a&gt; 衍生系列 ——&lt;/h3&gt;
+&lt;h5 id=&#34;百度网盘不限速下载方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#百度网盘不限速下载方法&#34;&gt;#&lt;/a&gt; 百度网盘不限速下载方法&lt;/h5&gt;
+&lt;p&gt;这里主要介绍&lt;strong&gt;油猴脚本 + IDM 下载器&lt;/strong&gt;的方法&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzP3E9JUU3JTk5JUJFJUU1JUJBJUE2JUU3JUJEJTkxJUU3JTlCJTk4&#34;&gt;油叉&lt;/span&gt;上有很多这方面的脚本，例如我自己使用的是&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzLzQ2MzgzMi0lRTclOTklQkUlRTUlQkElQTYlRTclQkQlOTElRTclOUIlOTglRTQlQjglOEQlRTklOTklOTAlRTklODAlOUYlRTQlQjglOEIlRTglQkQlQkQta3ViZWRvd24=&#34;&gt;百度网盘不限速下载 - KubeDown&lt;/span&gt;，这个好处是不用通过关注公众号来获取验证码，其他一些脚本可能会要求公众号发送验证码。当然可以自己看着装。但注意都需要配合 IDM 之类的下载器实现。&lt;br /&gt;
+以 KubeDown 为例，安装成功后打开百度网盘网页版，出现如下界面：&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566137280-4386d789-35ea-4195-a1d5-43151d863408.png#averageHue=%23b5def7&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;id=u03473ad3&amp;amp;originHeight=191&amp;amp;originWidth=557&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u1d65473c-77e4-4249-ba7a-2998d32035e&amp;amp;title=&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;接下来安装 IDM，这里提供一个 IDM 的安装包：&lt;br /&gt;
+暂时无法在飞书文档外展示此内容&lt;br /&gt;
+关于 IDM 的介绍以及安装（其实很简单）可以参考这篇&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VYSXhpYW96aG91L2FydGljbGUvZGV0YWlscy8xMjgzMzU5NTg=&#34;&gt;下载神器 IDM 安装与使用 (保姆级教程)_idm 安装教程_EXI - 小洲的博客 - CSDN 博客&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;以上两步都准备好之后，打开网页版百度网盘 --&amp;gt; 勾选需要下载的文件 --&amp;gt; 点击上图按钮&lt;br /&gt;
+稍等之后，就会让你输入图片中的验证码👇，输入之后点验证就行（注意这时候不要挂梯子之类的东西，否则会提示失败）&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566137214-a48c4eee-b052-44a8-97c0-aa12902c25d8.png#averageHue=%23bcbcbb&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;height=313&amp;amp;id=u162d6d75&amp;amp;originHeight=1124&amp;amp;originWidth=1645&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=uad356374-0d29-4e8e-8edf-611c27091e5&amp;amp;title=&amp;amp;width=458&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+然后会生成下载链接，把链接复制一下&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566137211-1b48cb67-ba13-4f06-9027-1b4e0a551981.png#averageHue=%23fafafa&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;height=470&amp;amp;id=ucdcf9100&amp;amp;originHeight=1090&amp;amp;originWidth=1037&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u3a3f2b40-bbfb-48e6-aa08-a3cb01c81d9&amp;amp;title=&amp;amp;width=447&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+打开 IDM，新建任务，会自动填充地址（也可以手动粘贴）&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566137245-f780a2fe-8732-4296-99f2-84a65e9c1534.png#averageHue=%23383737&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;height=264&amp;amp;id=u7ddd430d&amp;amp;originHeight=775&amp;amp;originWidth=1579&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u398df8c0-a7f1-4ad7-8ab8-f5d988e30f7&amp;amp;title=&amp;amp;width=538&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+点确定，三个点的地方可以修改地址（我好啰嗦）&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566137319-21abaf43-e03a-405b-80cd-344c78fafb89.png#averageHue=%2341403f&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;height=203&amp;amp;id=u3f9ffc1c&amp;amp;originHeight=424&amp;amp;originWidth=1128&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=uc6b26598-f96c-4012-a978-c0901f24e08&amp;amp;title=&amp;amp;width=540&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+点开始下载之后，** 瞬间！下完了！👇 ** 让你感受飞一般的速度&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.nlark.com/yuque/0/2023/png/34500264/1686566137843-a0db27ef-56af-44ef-858c-91fd8f4e42b5.png#averageHue=%233e3e3d&amp;amp;clientId=u9ba387fc-dbde-4&amp;amp;from=paste&amp;amp;height=273&amp;amp;id=ub2d6de52&amp;amp;originHeight=463&amp;amp;originWidth=913&amp;amp;originalType=url&amp;amp;ratio=2&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u23f303d2-42ab-4d7c-8b70-6961a1f4831&amp;amp;title=&amp;amp;width=538&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+更详细的教程可以看脚本官方贴上来的链接：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82MTY5MDEwNjg=&#34;&gt;百度网盘最新脚本，刚被举报但可以用&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://limoyy.github.io/2023/06/02/%E7%BD%91%E7%AB%99%E4%BB%8B%E7%BB%8D/</guid>
+            <title>找书教程</title>
+            <link>http://limoyy.github.io/2023/06/02/%E7%BD%91%E7%AB%99%E4%BB%8B%E7%BB%8D/</link>
+            <pubDate>Fri, 02 Jun 2023 00:39:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;关于秒传短链404的解决方案【2023-6-8】&#34;&gt;&lt;a href=&#34;#关于秒传短链404的解决方案【2023-6-8】&#34; class=&#34;headerlink&#34; title=&#34;关于秒传短链404的解决方案【2023.6.8】&#34;&gt;&lt;/a&gt;关于秒传短链404的解决方案【2023.6.8】&lt;/h1&gt;&lt;h2 id=&#34;方案一：My-Book-House网站-百度网盘脚本百度网盘秒传链接提取-最新可维护版本-1-已经安装过油猴插件以及https-greasyfork-org-zh-CN-scripts-427628-E7-99-BE-E5-BA-A6-E7-BD-91-E7-9B-98-E7-A7-92-E4-BC-A0-E9-93-BE-E6-8E-A5-E6-8F-90-E5-8F-96-E6-9C-80-E6-96-B0-E5-8F-AF-E7-BB-B4-E6-8A-A4-E7-89-88-E6-9C-AC这个脚本的话，直接访问http-www-findbooks-info-，搜索到书后，复制一长串的md5码，打开网页版百度网盘，点击“秒传”，把复制的码粘贴进去即可，路径根据自己需求填。2-对于没有安装过油猴脚本的同学，浏览器搜索“tampermonkey”，安装拓展之后，点击上面的链接安装脚本。之后就是1的步骤。&#34;&gt;&lt;a href=&#34;#方案一：My-Book-House网站-百度网盘脚本百度网盘秒传链接提取-最新可维护版本-1-已经安装过油猴插件以及https-greasyfork-org-zh-CN-scripts-427628-E7-99-BE-E5-BA-A6-E7-BD-91-E7-9B-98-E7-A7-92-E4-BC-A0-E9-93-BE-E6-8E-A5-E6-8F-90-E5-8F-96-E6-9C-80-E6-96-B0-E5-8F-AF-E7-BB-B4-E6-8A-A4-E7-89-88-E6-9C-AC这个脚本的话，直接访问http-www-findbooks-info-，搜索到书后，复制一长串的md5码，打开网页版百度网盘，点击“秒传”，把复制的码粘贴进去即可，路径根据自己需求填。2-对于没有安装过油猴脚本的同学，浏览器搜索“tampermonkey”，安装拓展之后，点击上面的链接安装脚本。之后就是1的步骤。&#34; class=&#34;headerlink&#34; title=&#34;方案一：My Book House网站+百度网盘脚本百度网盘秒传链接提取(最新可维护版本)1. 已经安装过油猴插件以及https://greasyfork.org/zh-CN/scripts/427628-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-%E6%9C%80%E6%96%B0%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%89%88%E6%9C%AC这个脚本的话，直接访问http://www.findbooks.info/，搜索到书后，复制一长串的md5码，打开网页版百度网盘，点击“秒传”，把复制的码粘贴进去即可，路径根据自己需求填。2. 对于没有安装过油猴脚本的同学，浏览器搜索“tampermonkey”，安装拓展之后，点击上面的链接安装脚本。之后就是1的步骤。&#34;&gt;&lt;/a&gt;方案一：My Book House网站+百度网盘脚本百度网盘秒传链接提取(最新可维护版本)&lt;br&gt;1. 已经安装过油猴插件以及&lt;a href=&#34;https://greasyfork.org/zh-CN/scripts/427628-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-%E6%9C%80%E6%96%B0%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%89%88%E6%9C%AC%E8%BF%99%E4%B8%AA%E8%84%9A%E6%9C%AC%E7%9A%84%E8%AF%9D%EF%BC%8C%E7%9B%B4%E6%8E%A5%E8%AE%BF%E9%97%AEhttp://www.findbooks.info/%EF%BC%8C%E6%90%9C%E7%B4%A2%E5%88%B0%E4%B9%A6%E5%90%8E%EF%BC%8C%E5%A4%8D%E5%88%B6%E4%B8%80%E9%95%BF%E4%B8%B2%E7%9A%84md5%E7%A0%81%EF%BC%8C%E6%89%93%E5%BC%80%E7%BD%91%E9%A1%B5%E7%89%88%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%EF%BC%8C%E7%82%B9%E5%87%BB%E2%80%9C%E7%A7%92%E4%BC%A0%E2%80%9D%EF%BC%8C%E6%8A%8A%E5%A4%8D%E5%88%B6%E7%9A%84%E7%A0%81%E7%B2%98%E8%B4%B4%E8%BF%9B%E5%8E%BB%E5%8D%B3%E5%8F%AF%EF%BC%8C%E8%B7%AF%E5%BE%84%E6%A0%B9%E6%8D%AE%E8%87%AA%E5%B7%B1%E9%9C%80%E6%B1%82%E5%A1%AB%E3%80%82&#34;&gt;https://greasyfork.org/zh-CN/scripts/427628-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-%E6%9C%80%E6%96%B0%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%89%88%E6%9C%AC这个脚本的话，直接访问http://www.findbooks.info/，搜索到书后，复制一长串的md5码，打开网页版百度网盘，点击“秒传”，把复制的码粘贴进去即可，路径根据自己需求填。&lt;/a&gt;&lt;br&gt;2. 对于没有安装过油猴脚本的同学，浏览器搜索“tampermonkey”，安装拓展之后，点击上面的链接安装脚本。之后就是1的步骤。&lt;/h2&gt;&lt;p&gt;方案二：使用易书新接口zhelper Search Page 搜索界面 🔍获取直链 【更新于2023.6.8】&lt;br&gt;这个方法比第一个更快一些&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在zhelper Search Page 搜索界面 🔍中搜索到想要的书后，直接点击“直链”&lt;br&gt;[图片]&lt;/li&gt;
+&lt;li&gt;之后会弹出一长串字符，这时候查看百度网盘，会发现已经存到网盘里了（一般在根目录）&lt;br&gt;[图片]&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://limoyy.github.io/2023/06/01/hello-world/</guid>
+            <title>Hello World</title>
+            <link>http://limoyy.github.io/2023/06/01/hello-world/</link>
+            <pubDate>Thu, 01 Jun 2023 20:35:18 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Run-server&#34;&gt;&lt;a href=&#34;#Run-server&#34; class=&#34;headerlink&#34; title=&#34;Run server&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Generate-static-files&#34;&gt;&lt;a href=&#34;#Generate-static-files&#34; class=&#34;headerlink&#34; title=&#34;Generate static files&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;&lt;a href=&#34;#Deploy-to-remote-sites&#34; class=&#34;headerlink&#34; title=&#34;Deploy to remote sites&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
